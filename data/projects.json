@@ -1,0 +1,84 @@
+[
+  {
+    "index": 1,
+    "title": "Movie App",
+    "tools": [
+      "ReactJs",
+      "Redux",
+      "Vite",
+      "Sass"
+        ],
+    "live_preview": "https://metro-cinema.vercel.app/",
+    "repo": "https://github.com/Saleh0987/Metro_Cinema",
+    "thubmnail": "/assets/images/projects/MetroLogo.png",
+    "overview": "📺 Knowing the latest series and movies on international platforms and knowing"
+  },
+  {
+    "index": 2,
+    "title": "l_habilleur Store",
+    "tools": [
+      "ReactJs",
+      "Redux",
+      "Firebase",
+      "Bootstrap"
+    ],
+    "live_preview": "https://lhabilleur-store.vercel.app/Home",
+    "repo": "https://github.com/Saleh0987/lhabilleur_Store_Site",
+    "thubmnail": "/assets/images/projects/L_habilleurLogo.png",
+    "overview": "The project involves building an ecommerce website Users can browse products, add items to their cart, and make purchases."
+  }
+  ,
+  {
+    "index": 3,
+    "title": "Photography",
+    "tools": [
+      "ReactJs",
+      "TailwindCss",
+      "vite",
+      "Redux"
+    ],
+    "live_preview": "https://photography-23.vercel.app/",
+    "repo": "https://github.com/Saleh0987/Photography_Site",
+    "thubmnail": "/assets/images/projects/PhotoLogo.png",
+    "overview": "🎥 online store that offers a wide range of cameras and accessories."
+  },
+  {
+    "index": 4,
+    "title": "Resume Builder",
+    "tools": [
+      "ReactJs",
+      "React Router",
+      "React Icons",
+      "Bootstrap",
+      "Chakra UI"
+    ],
+    "live_preview": "https://resume-builder-23.vercel.app/",
+    "repo": "https://github.com/Saleh0987/Resume-Builder-Site",
+    "thubmnail": "/assets/images/projects/ResumeLogo.png",
+    "overview": "A resume builder website is a web-based tool that allows users to create and customize a professional resume to their desired specifications."
+  },
+  {
+    "index": 5,
+    "title": "Hilink",
+    "tools": ["NextJs", "TailwindCss", "TypeScript"],
+    "live_preview": "https://travel-23.vercel.app/",
+    "repo": "https://github.com/Saleh0987/travel_react-landing",
+    "thubmnail": "/assets/images/projects/HilinkLogo.png",
+    "overview": "Modern Landing Page Using Next js and TypeScript."
+  },
+  {
+    "index": 6,
+    "title": "Burger Landing",
+    "tools": [
+      "NextJs",
+      "TypeScript",
+      "React Icons",
+      "TailwindCss",
+      "react-multi-carousel"
+    ],
+    "live_preview": "https://react-burger-delta-green.vercel.app/",
+    "repo": "https://github.com/Saleh0987/react-burger_landing",
+    "thubmnail": "/assets/images/projects/BurgerLogo.png",
+    "overview": "landing page using nextjs and typeSccript."
+  }
+]
