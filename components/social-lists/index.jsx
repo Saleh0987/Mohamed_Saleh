@@ -2,7 +2,7 @@ import React from "react";
 import styles from "./social-lists.module.sass";
 import { FiGithub } from "react-icons/fi";
 import { FaLinkedinIn } from "react-icons/fa";
-import { BsFacebook, BsWhatsapp } from "react-icons/bs";
+import {  BsWhatsapp } from "react-icons/bs";
 
 export default function SocialLists({ data }) {
   return (
@@ -33,17 +33,6 @@ export default function SocialLists({ data }) {
                 rel="noreferrer"
               >
                 <FaLinkedinIn />
-              </a>
-            </li>
-            <li className={styles.social_list_item}>
-              <a
-                href={data.facebook}
-                target={"_blank"}
-                title="Facebook"
-                className={styles.social_link}
-                rel="noreferrer"
-              >
-                <BsFacebook />
               </a>
             </li>
             <li className={styles.social_list_item}>

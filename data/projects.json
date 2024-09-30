@@ -80,5 +80,22 @@
     "repo": "https://github.com/Saleh0987/react-burger_landing",
     "thubmnail": "/assets/images/projects/BurgerLogo.png",
     "overview": "landing page using nextjs and typeSccript."
+  },
+    {
+    "index": 7,
+    "title": "Hermès Storè",
+    "tools": [
+      "Vite",
+      "React.js",
+      "TailwindCss",
+      "Formik",
+      "Yup",
+      "Axios",
+      "Context"
+    ],
+    "live_preview": "https://fresh-cart-mosaleh.vercel.app/",
+    "repo": "https://github.com/Saleh0987/fresh_cart_project",
+    "thubmnail": "/assets/images/projects/hermes.png",
+    "overview": "Developed a responsive e-commerce web application."
   }
 ]
