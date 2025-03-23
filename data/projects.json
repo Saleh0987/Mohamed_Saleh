@@ -1,6 +1,37 @@
 [
   {
     "index": 1,
+    "title": "Saturn-ecommerce",
+    "tools": [
+      "NextJs",
+      "Monogoose",
+      "TailwindCss",
+      "mernstack"
+        ],
+    "live_preview": "https://saturn-ecommerce.vercel.app/",
+    "repo": "https://saturn-ecommerce.vercel.app/",
+    "thubmnail": "/assets/images/projects/SATURN.png",
+    "overview": "Discover a wide range of high-quality products at SATURN, your ultimate e-commerce platform built with Next.js."
+  },
+  {
+    "index": 2,
+    "title": "Grafica Store",
+    "tools": [
+      "ReactJs",
+      "reduxjs/toolkit",
+      "TailwindCss",
+      "NodeJs",
+      "Express",
+      "MongoDB",
+      "mernstack"
+    ],
+    "live_preview": "https://grafica-test.vercel.app/",
+    "repo": "https://grafica-test.vercel.app/",
+    "thubmnail": "/assets/images/projects/Grafica.jpg",
+    "overview": "Grafica store, online shopping, stickers, laptops, men's fashion, t-shirts, mugs, accessories, personalized gifts"
+  },
+  {
+    "index": 3,
     "title": "Movie App",
     "tools": [
       "ReactJs",
@@ -14,7 +45,7 @@
     "overview": "📺 Knowing the latest series and movies on international platforms and knowing"
   },
   {
-    "index": 2,
+    "index": 4,
     "title": "l_habilleur Store",
     "tools": [
       "ReactJs",
@@ -29,7 +60,7 @@
   }
   ,
   {
-    "index": 3,
+    "index": 5,
     "title": "Photography",
     "tools": [
       "ReactJs",
@@ -43,7 +74,7 @@
     "overview": "🎥 online store that offers a wide range of cameras and accessories."
   },
   {
-    "index": 4,
+    "index": 6,
     "title": "Resume Builder",
     "tools": [
       "ReactJs",
@@ -58,7 +89,7 @@
     "overview": "A resume builder website is a web-based tool that allows users to create and customize a professional resume to their desired specifications."
   },
   {
-    "index": 5,
+    "index": 7,
     "title": "Hilink",
     "tools": ["NextJs", "TailwindCss", "TypeScript"],
     "live_preview": "https://travel-23.vercel.app/",
@@ -67,7 +98,7 @@
     "overview": "Modern Landing Page Using Next js and TypeScript."
   },
   {
-    "index": 6,
+    "index": 8,
     "title": "Burger Landing",
     "tools": [
       "NextJs",
@@ -82,7 +113,7 @@
     "overview": "landing page using nextjs and typeSccript."
   },
     {
-    "index": 7,
+    "index": 9,
     "title": "Hermès Storè",
     "tools": [
       "Vite",
