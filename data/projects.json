@@ -32,14 +32,15 @@
   },
   {
     "index": 3,
-    "title": "Movie App",
+    "title": "Metro Cinema",
     "tools": [
       "ReactJs",
       "Redux",
-      "Vite",
-      "Sass"
-        ],
-    "live_preview": "https://metro-cinema.vercel.app/",
+      "Sass",
+      "firebase",
+      "google auth" 
+      ],
+    "live_preview": "https://metrocin.vercel.app/",
     "repo": "https://github.com/Saleh0987/Metro_Cinema",
     "thubmnail": "/assets/images/projects/MetroLogo.png",
     "overview": "📺 Knowing the latest series and movies on international platforms and knowing"
