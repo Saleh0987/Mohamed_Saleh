@@ -47,6 +47,24 @@
   },
   {
     "index": 4,
+    "title": "Task Manager",
+    "tools": [
+      "ReactJs",
+      "reduxjs/toolkit",
+      "TailwindCss",
+      "NodeJs",
+      "Express",
+      "MongoDB",
+      "mernstack",
+      "recharts"
+      ],
+    "live_preview": "https://task-controll-2025.vercel.app/",
+    "repo": "https://github.com/Saleh0987/Task-Manager",
+    "thubmnail": "/assets/images/projects/Task-Manager.png",
+    "overview": "Task Management Web App 2025"
+  },
+  {
+    "index": 5,
     "title": "l_habilleur Store",
     "tools": [
       "ReactJs",
@@ -61,7 +79,7 @@
   }
   ,
   {
-    "index": 5,
+    "index": 6,
     "title": "Photography",
     "tools": [
       "ReactJs",
@@ -75,7 +93,7 @@
     "overview": "🎥 online store that offers a wide range of cameras and accessories."
   },
   {
-    "index": 6,
+    "index": 7,
     "title": "Resume Builder",
     "tools": [
       "ReactJs",
@@ -90,7 +108,7 @@
     "overview": "A resume builder website is a web-based tool that allows users to create and customize a professional resume to their desired specifications."
   },
   {
-    "index": 7,
+    "index": 8,
     "title": "Hilink",
     "tools": ["NextJs", "TailwindCss", "TypeScript"],
     "live_preview": "https://travel-23.vercel.app/",
@@ -99,7 +117,7 @@
     "overview": "Modern Landing Page Using Next js and TypeScript."
   },
   {
-    "index": 8,
+    "index": 9,
     "title": "Burger Landing",
     "tools": [
       "NextJs",
@@ -114,7 +132,7 @@
     "overview": "landing page using nextjs and typeSccript."
   },
     {
-    "index": 9,
+    "index": 10,
     "title": "Hermès Storè",
     "tools": [
       "Vite",
